@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[System Travel]**
+- 🔭 I’m currently working on **[med search]**
 - 🌱 I’m currently learning **[Web development and Multimedia (3d Animation and Game development)]**
 - 💬 Ask me about **[UI/UX Designer]**
 - 📫 How to reach me: **[sayedfachriza727@gmail.com]**
